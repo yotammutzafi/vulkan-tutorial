@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\yummy\Desktop\c++\vulkan\learning\simple_set_up\Project1\main.cpp(317,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\yummy\Desktop\c++\vulkan\learning\simple_set_up\Project1\main.cpp(321,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\yummy\Desktop\c++\vulkan\learning\simple_set_up\Project1\main.cpp(679,37): error C2374: 'dynamicStates': redefinition; multiple initialization
+C:\Users\yummy\Desktop\c++\vulkan\learning\simple_set_up\Project1\main.cpp(642,37): message : see declaration of 'dynamicStates'
+C:\Users\yummy\Desktop\c++\vulkan\learning\simple_set_up\Project1\main.cpp(684,42): error C2374: 'dynamicState': redefinition; multiple initialization
+C:\Users\yummy\Desktop\c++\vulkan\learning\simple_set_up\Project1\main.cpp(647,42): message : see declaration of 'dynamicState'
+C:\Users\yummy\Desktop\c++\vulkan\learning\simple_set_up\Project1\main.cpp(694,43): error C2374: 'viewportState': redefinition; multiple initialization
+C:\Users\yummy\Desktop\c++\vulkan\learning\simple_set_up\Project1\main.cpp(689,43): message : see declaration of 'viewportState'
+C:\Users\yummy\Desktop\c++\vulkan\learning\simple_set_up\Project1\main.cpp(831,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yummy\Desktop\c++\vulkan\learning\simple_set_up\Project1\main.cpp(855,27): warning C4018: '<': signed/unsigned mismatch

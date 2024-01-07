@@ -1,0 +1,2 @@
+C:\Users\yummy\Desktop\c++\vulkan\learning\basic_setup\Project1\x64\Debug\Project1.exe
+C:\Users\yummy\Desktop\c++\vulkan\learning\simple_set_up\Project1\x64\Debug\Project1.exe
